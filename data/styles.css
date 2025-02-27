@@ -75,9 +75,14 @@
   color:#000000;
   text-align:left;
 }
+.tree_node {
+  text-align:left;
+}
 ._流程图形状 {
 }
 .table_cell {
+}
+.menu_item {
 }
 .form_hint {
   color:#999999;
@@ -108,5 +113,15 @@
 ._图片_ {
 }
 .shape1 {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.form_hint1 {
+  color:#999999;
+}
+.primary_button1 {
+  color:#FFFFFF;
 }
 textarea, select, input, button, div, svg { outline: none; }
