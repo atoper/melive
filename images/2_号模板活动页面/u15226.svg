@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="360px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="180" y1="0" x2="180" y2="40" id="LinearGradient433">
-      <stop id="Stop434" stop-color="#111111" offset="0" />
-      <stop id="Stop435" stop-color="#555555" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="180" y1="0" x2="180" y2="40" id="LinearGradient533">
+      <stop id="Stop534" stop-color="#111111" offset="0" />
+      <stop id="Stop535" stop-color="#555555" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip436">
+    <mask fill="white" id="Clip536">
       <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999993 0  5 0  L 355 0  C 357.8 0  360 2.1999999999999997  360 5  L 360 40  L 0 40  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -380 -160 )">
-    <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999993 0  5 0  L 355 0  C 357.8 0  360 2.1999999999999997  360 5  L 360 40  L 0 40  Z " fill-rule="nonzero" fill="url(#LinearGradient433)" stroke="none" transform="matrix(1 0 0 1 380 160 )" class="fill" />
-    <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999993 0  5 0  L 355 0  C 357.8 0  360 2.1999999999999997  360 5  L 360 40  L 0 40  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 380 160 )" class="stroke" mask="url(#Clip436)" />
+    <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999993 0  5 0  L 355 0  C 357.8 0  360 2.1999999999999997  360 5  L 360 40  L 0 40  Z " fill-rule="nonzero" fill="url(#LinearGradient533)" stroke="none" transform="matrix(1 0 0 1 380 160 )" class="fill" />
+    <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999993 0  5 0  L 355 0  C 357.8 0  360 2.1999999999999997  360 5  L 360 40  L 0 40  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 380 160 )" class="stroke" mask="url(#Clip536)" />
   </g>
 </svg>
