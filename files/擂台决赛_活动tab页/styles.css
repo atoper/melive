@@ -4263,10 +4263,10 @@
   top:0px;
   width:360px;
   height:480px;
+  overflow:auto;
+  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-color:rgba(85, 85, 85, 1);
   background-image:none;
   border-radius:0px;
@@ -13482,10 +13482,10 @@
   top:0px;
   width:360px;
   height:480px;
+  overflow:auto;
+  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-color:rgba(85, 85, 85, 1);
   background-image:none;
   border-radius:0px;
