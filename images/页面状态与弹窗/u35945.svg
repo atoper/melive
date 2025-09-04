@@ -1,6 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="2px" height="31px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -229 -92 )">
-    <path d="M 0.5 0  L 0.5 30  " stroke-width="1" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0.4980392156862745)" fill="none" transform="matrix(1 0 0 1 229 92 )" class="stroke" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="147px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="3.552713678800501E-13" x2="147" y2="50.000000000000355" id="LinearGradient4905">
+      <stop id="Stop4906" stop-color="#8400ff" offset="0" />
+      <stop id="Stop4907" stop-color="#c280ff" offset="1" />
+    </linearGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip4908">
+      <path d="M 0 45  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5.000000000000001 0  L 142 0  C 144.8 0  147 2.1999999999999997  147 5  L 147 45  C 147 47.8  144.8 50  142 50  L 5.000000000000001 50  C 2.1999999999999997 50  0 47.8  0 45  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -208 -82 )">
+    <path d="M 0 45  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5.000000000000001 0  L 142 0  C 144.8 0  147 2.1999999999999997  147 5  L 147 45  C 147 47.8  144.8 50  142 50  L 5.000000000000001 50  C 2.1999999999999997 50  0 47.8  0 45  Z " fill-rule="nonzero" fill="url(#LinearGradient4905)" stroke="none" transform="matrix(1 0 0 1 208 82 )" class="fill" />
+    <path d="M 0 45  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5.000000000000001 0  L 142 0  C 144.8 0  147 2.1999999999999997  147 5  L 147 45  C 147 47.8  144.8 50  142 50  L 5.000000000000001 50  C 2.1999999999999997 50  0 47.8  0 45  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 208 82 )" class="stroke" mask="url(#Clip4908)" />
   </g>
 </svg>
