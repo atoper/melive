@@ -1,17 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="180px" height="15px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="2px" height="6px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="7.5" x2="180" y2="7.5" id="LinearGradient11031">
-      <stop id="Stop11032" stop-color="#53c0ff" offset="0" />
-      <stop id="Stop11033" stop-color="#2f9cff" offset="1" />
-    </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip11034">
-      <path d="M 0 15  L 0 0  L 180 0  L 180 10.000000000000002  C 180 12.8  177.79999999999998 15  175 15  L 0 15  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip20195">
+      <path d="M 1.691601562499999 0.11757812499999964  L 0.5349609375000011 0.11757812499999964  L 0.5349609375000011 5.902539062500001  L 0.919921875 5.902539062500001  C 1.3453125000000004 5.902539062500001  1.691601562499999 5.558007812500001  1.691601562499999 5.130859375000002  L 1.691601562499999 0.11757812499999964  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -180 -1247 )">
-    <path d="M 0 15  L 0 0  L 180 0  L 180 10.000000000000002  C 180 12.8  177.79999999999998 15  175 15  L 0 15  Z " fill-rule="nonzero" fill="url(#LinearGradient11031)" stroke="none" transform="matrix(1 0 0 1 180 1247 )" class="fill" />
-    <path d="M 0 15  L 0 0  L 180 0  L 180 10.000000000000002  C 180 12.8  177.79999999999998 15  175 15  L 0 15  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 180 1247 )" class="stroke" mask="url(#Clip11034)" />
+  <g transform="matrix(1 0 0 1 -693 -1245 )">
+    <path d="M 1.691601562499999 0.11757812499999964  L 0.5349609375000011 0.11757812499999964  L 0.5349609375000011 5.902539062500001  L 0.919921875 5.902539062500001  C 1.3453125000000004 5.902539062500001  1.691601562499999 5.558007812500001  1.691601562499999 5.130859375000002  L 1.691601562499999 0.11757812499999964  Z " fill-rule="nonzero" fill="rgba(226, 35, 35, 1)" stroke="none" transform="matrix(1 0 0 1 693 1245 )" class="fill" />
+    <path d="M 1.691601562499999 0.11757812499999964  L 0.5349609375000011 0.11757812499999964  L 0.5349609375000011 5.902539062500001  L 0.919921875 5.902539062500001  C 1.3453125000000004 5.902539062500001  1.691601562499999 5.558007812500001  1.691601562499999 5.130859375000002  L 1.691601562499999 0.11757812499999964  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 693 1245 )" class="stroke" mask="url(#Clip20195)" />
   </g>
 </svg>
