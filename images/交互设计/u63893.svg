@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="640px" height="640px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="320" y1="0" x2="320" y2="640" id="LinearGradient7713">
-      <stop id="Stop7714" stop-color="#000000" stop-opacity="0.09803921568627451" offset="0" />
-      <stop id="Stop7715" stop-color="#000000" offset="0.39" />
-      <stop id="Stop7716" stop-color="#000000" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="320" y1="0" x2="320" y2="640" id="LinearGradient9337">
+      <stop id="Stop9338" stop-color="#000000" stop-opacity="0.09803921568627451" offset="0" />
+      <stop id="Stop9339" stop-color="#000000" offset="0.39" />
+      <stop id="Stop9340" stop-color="#000000" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip7717">
+    <mask fill="white" id="Clip9341">
       <path d="M 0 640  L 0 0  L 640 0  L 640 640  L 0 640  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g>
-    <path d="M 0 640  L 0 0  L 640 0  L 640 640  L 0 640  Z " fill-rule="nonzero" fill="url(#LinearGradient7713)" stroke="none" class="fill" />
-    <path d="M 0 640  L 0 0  L 640 0  L 640 640  L 0 640  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" mask="url(#Clip7717)" />
+    <path d="M 0 640  L 0 0  L 640 0  L 640 640  L 0 640  Z " fill-rule="nonzero" fill="url(#LinearGradient9337)" stroke="none" class="fill" />
+    <path d="M 0 640  L 0 0  L 640 0  L 640 640  L 0 640  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" mask="url(#Clip9341)" />
   </g>
 </svg>
