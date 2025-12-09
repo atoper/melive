@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="330px" height="77px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="330px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="330" y2="77" id="LinearGradient8316">
-      <stop id="Stop8317" stop-color="#d9001b" offset="0" />
-      <stop id="Stop8318" stop-color="#02a7f0" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="165" y1="0" x2="165" y2="40" id="LinearGradient10098">
+      <stop id="Stop10099" stop-color="#000000" offset="0" />
+      <stop id="Stop10100" stop-color="#333333" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip8319">
-      <path d="M 0 77  L 0 0  L 330 0  L 330 77  L 0 77  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip10101">
+      <path d="M 0 40  L 0 10  C 0 4.3999999999999995  4.3999999999999995 0  10 0  L 320 0  C 325.6 0  330 4.3999999999999995  330 10  L 330 40  L 0 40  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g>
-    <path d="M 0 77  L 0 0  L 330 0  L 330 77  L 0 77  Z " fill-rule="nonzero" fill="url(#LinearGradient8316)" stroke="none" class="fill" />
-    <path d="M 0 77  L 0 0  L 330 0  L 330 77  L 0 77  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" mask="url(#Clip8319)" />
+  <g transform="matrix(1 0 0 1 -15 -330 )">
+    <path d="M 0 40  L 0 10  C 0 4.3999999999999995  4.3999999999999995 0  10 0  L 320 0  C 325.6 0  330 4.3999999999999995  330 10  L 330 40  L 0 40  Z " fill-rule="nonzero" fill="url(#LinearGradient10098)" stroke="none" transform="matrix(1 0 0 1 15 330 )" class="fill" />
+    <path d="M 0 40  L 0 10  C 0 4.3999999999999995  4.3999999999999995 0  10 0  L 320 0  C 325.6 0  330 4.3999999999999995  330 10  L 330 40  L 0 40  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 15 330 )" class="stroke" mask="url(#Clip10101)" />
   </g>
 </svg>
