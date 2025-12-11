@@ -1,11 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="13px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="46px" height="25px" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="46" y1="0" x2="0" y2="25" id="LinearGradient18389">
+      <stop id="Stop18390" stop-color="#d7b685" offset="0" />
+      <stop id="Stop18391" stop-color="#fae4c5" offset="0.53" />
+      <stop id="Stop18392" stop-color="#e4c79f" offset="1" />
+    </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip18393">
+      <path d="M 12.5 25  C 5.499999999999999 25  0 19.5  0 12.5  C 0 5.499999999999999  5.499999999999999 0  12.5 0  L 33.5 0  C 40.5 0  46 5.499999999999999  46 12.5  C 46 19.5  40.5 25  33.5 25  L 12.5 25  Z " fill-rule="evenodd" />
+    </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 1704 -3310 )">
-    <path d="M 0 0  L 13 0  L 13 13  L 0 13  L 0 0  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 -1704 3310 )" class="fill" />
-    <path d="M 0.5 0.5  L 12.5 0.5  L 12.5 12.5  L 0.5 12.5  L 0.5 0.5  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 -1704 3310 )" class="stroke" stroke-dashoffset="0.5" />
-    <path d="M 2.7857142857142856 6.5  L 5.571428571428571 9.285714285714286  L 10.214285714285715 2.7857142857142856  " stroke-width="2.7857142857142856" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 -1704 3310 )" class="stroke btn_check" />
+  <g transform="matrix(1 0 0 1 -283 -219 )">
+    <path d="M 12.5 25  C 5.499999999999999 25  0 19.5  0 12.5  C 0 5.499999999999999  5.499999999999999 0  12.5 0  L 33.5 0  C 40.5 0  46 5.499999999999999  46 12.5  C 46 19.5  40.5 25  33.5 25  L 12.5 25  Z " fill-rule="nonzero" fill="url(#LinearGradient18389)" stroke="none" transform="matrix(1 0 0 1 283 219 )" class="fill" />
+    <path d="M 12.5 25  C 5.499999999999999 25  0 19.5  0 12.5  C 0 5.499999999999999  5.499999999999999 0  12.5 0  L 33.5 0  C 40.5 0  46 5.499999999999999  46 12.5  C 46 19.5  40.5 25  33.5 25  L 12.5 25  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 283 219 )" class="stroke" mask="url(#Clip18393)" />
   </g>
 </svg>
